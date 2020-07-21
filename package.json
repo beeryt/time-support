@@ -1,0 +1,14 @@
+{
+  "name": "time-support",
+  "private": true,
+  "version": "0.0.1",
+  "author": "Carl B. Smiley",
+  "description": "A web application for tracking time",
+  "license": "MIT",
+  "keywords": [
+    "time"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
