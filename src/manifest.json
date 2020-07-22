@@ -1,6 +1,6 @@
 {
-  "name": "ionic-pwa",
-  "short_name": "ionic-pwa",
+  "name": "time-support",
+  "short_name": "time-support",
   "start_url": "/",
   "display": "standalone",
   "icons": [{
