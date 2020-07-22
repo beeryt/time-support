@@ -1,3 +1,15 @@
+# Output
+www/
+
+# Ionic
+# Log and tmp data
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
+
 # NPM (Node Package Manager) files
 npm-debug.log*
 node_modules
